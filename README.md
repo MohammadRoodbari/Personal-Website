@@ -2,10 +2,10 @@
 > Personal Website using javascript and reactjs framework
 ---
 Here is some screenshots of website:
-<img src="./screenshots/demo_1.png" >
-<img src="./screenshots/demo_2.png" >
-<img src="./screenshots/demo_3.png" >
-<img src="./screenshots/demo_4.png" >
+<img src="./screenshots/demo_1.png" width="80%" height="80%">
+<img src="./screenshots/demo_2.png" width="80%" height="80%">
+<img src="./screenshots/demo_3.png" width="80%" height="80%">
+<img src="./screenshots/demo_4.png" width="80%" height="80%">
 
 ## Getting Started with Create React App
 
