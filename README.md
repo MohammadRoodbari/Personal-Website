@@ -1,6 +1,12 @@
 # Personal-Website
 > Personal Website using javascript and reactjs framework
 ---
+Here is some screenshots of website:
+<img src="./screenshots/demo_1.png" >
+<img src="./screenshots/demo_2.png" >
+<img src="./screenshots/demo_3.png" >
+<img src="./screenshots/demo_4.png" >
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
